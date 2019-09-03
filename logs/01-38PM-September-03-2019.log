@@ -1,0 +1,19 @@
+2019-09-03 13:38:47,210-simple_logger-INFO-in init method of selenium base
+2019-09-03 13:38:50,329-simple_logger-INFO-chrome browser is launch successfully
+2019-09-03 13:38:55,950-simple_logger-INFO-test_functionality_of_facebook_home_page_with_valid_details
+2019-09-03 13:38:56,154-simple_logger-INFO-enter_first_name_as prashant
+2019-09-03 13:38:56,332-simple_logger-INFO-enter_last_name_as khande
+2019-09-03 13:38:56,521-simple_logger-INFO-enter_mobile_number_as 8421835356
+2019-09-03 13:38:56,672-simple_logger-INFO-enter_password_as khande123
+2019-09-03 13:38:56,739-simple_logger-INFO-application close
+2019-09-03 13:38:58,991-simple_logger-INFO-in init method of selenium base
+2019-09-03 13:39:01,562-simple_logger-INFO-chrome browser is launch successfully
+2019-09-03 13:39:07,270-simple_logger-INFO-test_functionality_of_facebook_home_page_with_invalid_name
+2019-09-03 13:39:07,580-simple_logger-INFO-enter_first_name_as pr as ha nt 2 1 7 1
+2019-09-03 13:39:07,769-simple_logger-INFO-enter_last_name_as khande
+2019-09-03 13:39:07,955-simple_logger-INFO-enter_mobile_number_as 8421835356
+2019-09-03 13:39:08,154-simple_logger-INFO-enter_password_as khande123
+2019-09-03 13:39:08,187-simple_logger-INFO-application close
+2019-09-03 13:39:10,448-simple_logger-INFO-in init method of selenium base
+2019-09-03 13:39:12,926-simple_logger-INFO-chrome browser is launch successfully
+2019-09-03 13:39:20,451-simple_logger-INFO-application close

@@ -1,6 +1,0 @@
-2019-08-30 15:07:55,699 - simple_logger - INFO - in init method of selenium base
-2019-08-30 15:07:59,206 - simple_logger - INFO - chrome browser is launch successfully
-2019-08-30 15:08:04,320 - simple_logger - INFO - click on google search
-2019-08-30 15:08:07,906 - simple_logger - INFO - collect all texts
-2019-08-30 15:08:08,136 - simple_logger - INFO - []
-2019-08-30 15:08:08,806 - simple_logger - INFO - application close

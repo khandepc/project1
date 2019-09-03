@@ -1,0 +1,8 @@
+2019-09-03 13:27:01,102-simple_logger-INFO-in init method of selenium base
+2019-09-03 13:27:03,757-simple_logger-INFO-chrome browser is launch successfully
+2019-09-03 13:27:13,746-simple_logger-INFO-test_click_on_all_mobile_phones
+2019-09-03 13:27:15,224-simple_logger-INFO-move_to_category
+2019-09-03 13:27:15,536-simple_logger-INFO-move_to_mobile_and_computers
+2019-09-03 13:27:15,839-simple_logger-INFO-move_to_all_mobile_phones
+2019-09-03 13:27:22,384-simple_logger-INFO-click_on_all_mobile_phones
+2019-09-03 13:27:22,386-simple_logger-INFO-application close
